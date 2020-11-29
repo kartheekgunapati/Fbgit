@@ -1,0 +1,1 @@
+fb testcases are used to test the fb functionality in selenium 
