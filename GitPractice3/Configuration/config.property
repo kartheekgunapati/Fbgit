@@ -1,0 +1,9 @@
+ChromeDriver = C:\\Users\\msuser1\\Documents\\Workspace\\Celin\\Cha\\Chrome\\chromedriver.exe
+
+FirfoxDriver = C:\\Users\\msuser1\\Documents\\Workspace\\Celin\Cha\\firefox driver\\geckodriver.exe 
+
+Fburl = https://www.facebook.com
+
+FbUsername = karthick.gunapati
+
+Fbpassword = 997737353
